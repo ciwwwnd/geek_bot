@@ -45,4 +45,4 @@
 
 + Куда мне заливать свои файлы? 
     * Если это txt c текстами, то в папку [corpora](https://github.com/ciwwwnd/geek_bot/tree/master/corpora). Если что-то связанное с API и вебом, то в папку [web](https://github.com/ciwwwnd/geek_bot/tree/master/web). Папка [ling](https://github.com/ciwwwnd/geek_bot/tree/master/ling) для всей NLP части. 
-!(https://raw.githubusercontent.com/ciwwwnd/geek_bot/master/пфп.jpg?token=ANIMGCRBTDA34VDGRR7LWM27DIV2O[true])
+![kus'](https://raw.githubusercontent.com/ciwwwnd/geek_bot/master/пфп.jpg?token=ANIMGCRBTDA34VDGRR7LWM27DIV2O)
