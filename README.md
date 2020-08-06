@@ -10,4 +10,4 @@ Project is created with:
 * pymorphy2, nltk, stanza, pymystem3
 * pyTelegramBotAPI
 
-You can download zip file in master branch and run it.
+You can download zip file from master branch and run it.
